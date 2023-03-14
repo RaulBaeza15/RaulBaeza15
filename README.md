@@ -17,7 +17,7 @@
 ## ¡Hablemos! 📫
 
 🤝 Si quieres conectarte conmigo, puedes hacerlo a través de:
-- 📧 Correo electrónico: raulbaeza8@gmial.com.
+- 📧 Correo electrónico: raulbaeza8@gmail.com
 - 🔗 LinkedIn: Raúl Baeza Osuna.
 
 ¡Estoy deseando conocerte y trabajar juntos! 👀
