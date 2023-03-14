@@ -1,16 +1,25 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Raúl Baeza 🚀
 
-<!--
-**RaulBaeza15/RaulBaeza15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estoy estudiando Ingeniería de Software en la Universidad Politécnica de Madrid.
 
-Here are some ideas to get you started:
+👨‍💻 Me apasiona programar y disfruto construyendo cosas nuevas. Me encanta explorar tecnologías emergentes y siempre estoy buscando formas de mejorar mis habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Algunas de las habilidades que he desarrollado hasta ahora incluyen:
+- 💻 Programación en varios lenguajes de programación, como Python, Java, C++ y JavaScript.
+- 🌐 Desarrollo web utilizando HTML, CSS y JavaScript, junto con frameworks como React y Bootstrap.
+- 📊 Análisis de datos utilizando herramientas como Pandas y NumPy.
+
+🚀 En mi tiempo libre, me gusta:
+- 📚 Leer libros relacionados con la programación y la tecnología.
+- 🎧 Escuchar música mientras programo.
+- 🎮 Jugar videojuegos.
+
+## ¡Hablemos! 📫
+
+🤝 Si quieres conectarte conmigo, puedes hacerlo a través de:
+- 📧 Correo electrónico: raulbaeza8@gmial.com.
+- 🔗 LinkedIn: Raúl Baeza Osuna.
+
+¡Estoy deseando conocerte y trabajar juntos! 👀
+
+
